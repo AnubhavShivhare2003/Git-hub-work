@@ -1,6 +1,6 @@
-# 🔄 Understanding the Git Workflow – CodingGita Hostel Guide
+# 🔄 Understanding the Git Workflow – CodingGita Guide
 
-Welcome to **CodingGita's Git Hostel Guide**!  
+Welcome to **CodingGita's Git Guide**!  
 In this section, we will break down how Git actually works **behind the scenes**.  
 You’ll learn about the **three main areas** in Git:
 
