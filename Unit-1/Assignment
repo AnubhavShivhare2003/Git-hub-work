@@ -15,9 +15,11 @@ This assignment covers all topics from **Unit 1**:
 
 Write the **exact Git command** for each scenario.  
 
+---
+
 ### **1–20: Git Initialization & Cloning**
 1. Initialize a new Git repository in the current folder.  
-2. Clone a repository from `https://github.com/CodingGita/hostel-project.git`.  
+2. Clone a repository from:  
 3. Create a bare repository in the folder `central-repo`.  
 4. Clone a repo into a folder named `codinggita-app`.  
 5. Reinitialize an existing repository.  
@@ -26,7 +28,10 @@ Write the **exact Git command** for each scenario.
 8. Create a new repo in the current directory without any working files.  
 9. Clone a repo and rename the remote as `origin-hostel`.  
 10. Initialize a Git repo in `/home/student/projects/notes`.  
-11. Clone from a local repository path `/home/student/repos/hostel-food.git`.  
+11. Clone from a local repository path:  
+    ```
+    /home/student/repos/hostel-food.git
+    ```
 12. Clone a repository and checkout branch `dev`.  
 13. Initialize Git with the default branch as `main`.  
 14. Clone a shallow copy with depth 1 from GitHub.  
@@ -35,7 +40,7 @@ Write the **exact Git command** for each scenario.
 17. Clone a repo using a personal access token.  
 18. Create an empty repo with `.git` directory in `my-folder`.  
 19. Clone all branches of a Git repo.  
-20. Initialize Git in the current folder and make an initial commit with message "start".  
+20. Initialize Git in the current folder and make an initial commit with message _"start"_.
 
 ---
 
@@ -47,7 +52,7 @@ Write the **exact Git command** for each scenario.
 25. Stage files in the folder `hostel-bills/`.  
 26. Stage all `.md` files in the repo.  
 27. Add changes interactively.  
-28. Stage a file with spaces in its name `daily menu.txt`.  
+28. Stage a file with spaces in its name: `"daily menu.txt"`.  
 29. Stage and commit all changes in a single command.  
 30. Show short status with branch info.  
 31. Stage changes in `study-plan.docx`.  
@@ -55,7 +60,7 @@ Write the **exact Git command** for each scenario.
 33. Stage a deleted file named `old-menu.txt`.  
 34. Unstage all staged files.  
 35. Stage all tracked files.  
-36. Stage files from a different directory `../shared-project`.  
+36. Stage files from a different directory: `../shared-project`.  
 37. Add only `.txt` files in the repo.  
 38. Stage changes to a single hunk interactively.  
 39. Stage all files except `notes.txt`.  
@@ -64,11 +69,11 @@ Write the **exact Git command** for each scenario.
 ---
 
 ### **41–60: Git Commit & Logs**
-41. Commit staged changes with message "updated hostel menu".  
+41. Commit staged changes with message _"updated hostel menu"_.  
 42. Commit all changes (staged & unstaged) with a single command.  
 43. Commit with message including double quotes: _"Updated 'CodingGita' project"_.  
 44. Commit and sign off the commit.  
-45. Amend the last commit message to "updated breakfast menu".  
+45. Amend the last commit message to _"updated breakfast menu"_.  
 46. Commit changes with a specific author name and email.  
 47. Make a commit without editing the commit message.  
 48. Commit only `hostel_rules.txt`.  
@@ -88,8 +93,8 @@ Write the **exact Git command** for each scenario.
 ---
 
 ### **61–80: Git Configuration**
-61. Set your global Git username to "Priya Singh – CodingGita".  
-62. Set your global email to "priya@codinggita.com".  
+61. Set your **global** Git username to `"Priya Singh – CodingGita"`.  
+62. Set your **global** email to `"priya@codinggita.com"`.  
 63. Check all Git configuration settings.  
 64. Set VS Code as the default Git editor.  
 65. Set Notepad as default Git editor.  
@@ -97,7 +102,7 @@ Write the **exact Git command** for each scenario.
 67. Set default branch name to `main`.  
 68. Remove a configuration for core.editor.  
 69. List only global Git configuration.  
-70. Change local Git username to "Rohit Kumar – CodingGita".  
+70. Change **local** Git username to `"Rohit Kumar – CodingGita"`.  
 71. Configure Git to store credentials permanently.  
 72. Configure Git to use a credential cache.  
 73. Check system-level Git configuration.  
@@ -105,9 +110,9 @@ Write the **exact Git command** for each scenario.
 75. Disable SSL verification (temporary).  
 76. Enable auto CRLF on Windows.  
 77. Set a custom Git template directory.  
-78. Configure Git aliases for `st` = `status`.  
-79. Configure Git aliases for `co` = `checkout`.  
-80. Configure Git aliases for `br` = `branch`.  
+78. Configure Git alias: `st` = `status`.  
+79. Configure Git alias: `co` = `checkout`.  
+80. Configure Git alias: `br` = `branch`.  
 
 ---
 
@@ -135,43 +140,38 @@ Write the **exact Git command** for each scenario.
 
 ---
 
-## **Part B – Mixed MCQ & Fill in the Blanks (100 Questions)**  
+## **Part B – Mixed MCQ & Fill in the Blanks (101–200)**  
 
-**101.** Git is a __________ version control system.  
-**102.** Which of these is NOT a version control system?  
-    a) Git  
-    b) SVN  
-    c) Mercurial  
-    d) Python  
-
-**103.** Git was created by __________.  
-**104.** The main branch in a new Git repository is usually called __________.  
-**105.** True or False: Git is centralized version control.  
-**106.** Git stores data as a series of snapshots. (True/False)  
-**107.** The command to initialize a repository is __________.  
-**108.** Which command is used to copy a repo from a server?  
-**109.** __________ command shows the current status of working directory.  
-**110.** The staging area in Git is also called __________.  
-**111.** True or False: Commits are stored in the working directory.  
-**112.** __________ command records changes to the repository.  
-**113.** To see commit history, we use __________.  
-**114.** Which of these commands stages all files?  
-    a) git stage .  
-    b) git add *  
-    c) git all  
-    d) git stage all  
-
-**115.** __________ is the creator of Git.  
-**116.** Which file is used to ignore files from Git tracking?  
-**117.** True/False: Git is case-sensitive by default.  
-**118.** __________ command sets the username in Git.  
-**119.** Which Git area stores committed snapshots?  
-**120.** True/False: You can commit without staging.  
-**121.** Which Git command is used to see branch structure visually?  
-**122.** __________ command shows commit differences.  
-**123.** The working directory contains __________.  
-**124.** Which Git command unstages a file?  
-**125.** True/False: Git can be used offline.  
-
-...  
-_(Continue numbering up to 200 in the same format)_  
+101. Git is a __________ version control system.  
+102. Which of these is NOT a version control system?  
+ a) Git  
+ b) SVN  
+ c) Mercurial  
+ d) Python  
+103. Git was created by __________.  
+104. The main branch in a new Git repository is usually called __________.  
+105. True or False: Git is centralized version control.  
+106. Git stores data as a series of snapshots. (True/False)  
+107. The command to initialize a repository is __________.  
+108. Which command is used to copy a repo from a server?  
+109. __________ command shows the current status of working directory.  
+110. The staging area in Git is also called __________.  
+111. True or False: Commits are stored in the working directory.  
+112. __________ command records changes to the repository.  
+113. To see commit history, we use __________.  
+114. Which of these commands stages all files?  
+ a) git stage .  
+ b) git add *  
+ c) git all  
+ d) git stage all  
+115. __________ is the creator of Git.  
+116. Which file is used to ignore files from Git tracking?  
+117. True/False: Git is case-sensitive by default.  
+118. __________ command sets the username in Git.  
+119. Which Git area stores committed snapshots?  
+120. True/False: You can commit without staging.  
+121. Which Git command is used to see branch structure visually?  
+122. __________ command shows commit differences.  
+123. The working directory contains __________.  
+124. Which Git command unstages a file?  
+125. True/False: Git can be used offline.
