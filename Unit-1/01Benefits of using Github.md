@@ -2,7 +2,7 @@
 
 **Git is more than just a tool — it’s a safety net, a time machine, and a collaboration platform for your projects.**  
 
-When you’re a student (especially in a hostel like at CodingGita), you’ll often work on assignments, projects, or notes with friends. Git ensures your work is **safe, organized, and easy to share**.
+When you’re a student (especially in a Institute like at CodingGita), you’ll often work on assignments, projects, or notes with friends. Git ensures your work is **safe, organized, and easy to share**.
 
 ---
 
@@ -14,7 +14,7 @@ When you’re a student (especially in a hostel like at CodingGita), you’ll of
 - No more guessing, “Who changed this file?”  
 
 **Hostel Example:**  
-The CodingGita Hostel Rulebook changes every semester. With Git, you can check exactly **which student added the ‘No Maggi after midnight’ rule** and when.
+The Hostel Rulebook changes every semester. With Git, you can check exactly **which student added the ‘No Maggi after midnight’ rule** and when.
 
 ---
 
@@ -106,7 +106,7 @@ You start creating CodingGita posters in your hostel room and finish them later 
 
 ## 📝 Summary  
 
-Git helps **CodingGita hostel students**:  
+Git helps **CodingGita students**:  
 - Track every change  
 - Restore deleted or wrong edits  
 - Work offline during Wi-Fi downtime  
