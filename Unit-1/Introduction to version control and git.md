@@ -28,7 +28,7 @@ With version control:
 
 ---
 
-### 🏠 Hostel Life Example – The CodingGita Rulebook  
+### 🏠 Real Life Example – The CodingGita Rulebook  
 
 Imagine you are part of **CodingGita Hostel Committee**.  
 You and 10 friends are writing the **Hostel Rulebook**.  
@@ -99,7 +99,7 @@ Think of it like **CCTV for your project** — you can replay what happened at a
 
 ---
 
-## 🎯 Why Git is Perfect for Hostel Students at CodingGita  
+## 🎯 Why Git is Perfect for Students at CodingGita  
 
 1. **Works Offline** – Even if hostel Wi-Fi is down, you can still work.  
 2. **Full History Saved** – You never lose your work, even if your laptop crashes.  
