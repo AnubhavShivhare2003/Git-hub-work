@@ -103,9 +103,9 @@ c1d9e34 Added Monday breakfast menu
 
 ## 📺 Recommended YouTube Tutorials
 
-- **[Git Commit Basics](https://www.youtube.com/watch?v=2sjqTHE0zok)** – Programming with Mosh
-- **[How to Write Good Commit Messages](https://www.youtube.com/watch?v=JbO2sAK1F80)** – The Net Ninja
-- **[Git Log & Commit Explained](https://www.youtube.com/watch?v=OeZizAs3_Sw)** – freeCodeCamp
+- **[Git Commit Basics](https://www.youtube.com/watch?v=USjZcfj8yxE&ab_channel=ColtSteele)** – Colt Steele
+- **[How to Write Good Commit Messages](https://www.youtube.com/watch?v=1SXpE08hvGs)** – Git Tutorial
+- **[Git Log & Commit Explained](https://www.youtube.com/watch?v=HVsySz-h9r4)** – Git Fundamentals
 
 ---
 
