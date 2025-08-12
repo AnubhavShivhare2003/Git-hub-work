@@ -23,7 +23,7 @@ Each time you make a change (e.g., add a new event notice), you **sign your name
 3. **Backups:** Easily revert to older, working versions.
 4. **Clarity:** Commit messages explain the purpose of changes.
 
-💡 **Example – CodingGita App Project**
+💡 **Example – CodingGita Hostel App Project**
 - Commit 1 → Added Monday breakfast menu.
 - Commit 2 → Added lunch menu.
 - Commit 3 → Corrected spelling in "Paneer Butter Masala".
@@ -103,9 +103,9 @@ c1d9e34 Added Monday breakfast menu
 
 ## 📺 Recommended YouTube Tutorials
 
-- **Git Commit Basics** – Programming with Mosh
-- **How to Write Good Commit Messages** – The Net Ninja
-- **Git Log & Commit Explained** – freeCodeCamp
+- **[Git Commit Basics](https://www.youtube.com/watch?v=2sjqTHE0zok)** – Programming with Mosh
+- **[How to Write Good Commit Messages](https://www.youtube.com/watch?v=JbO2sAK1F80)** – The Net Ninja
+- **[Git Log & Commit Explained](https://www.youtube.com/watch?v=OeZizAs3_Sw)** – freeCodeCamp
 
 ---
 
@@ -118,4 +118,4 @@ c1d9e34 Added Monday breakfast menu
 
 ---
 
-*This guide is part of the CodingGita- helping developers understand Git fundamentals through real-world examples.*
+*This guide is part of the CodingGita Hostel Project - helping developers understand Git fundamentals through real-world examples.*
