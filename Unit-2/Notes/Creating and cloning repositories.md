@@ -1,5 +1,5 @@
 
-# 📦 Creating and Cloning Repositories – CodingGita Hostel Guide
+# 📦 Creating and Cloning Repositories – CodingGita Guide
 
 In Git, a **repository** (repo) is like your project’s **digital storage room**.  
 It’s where all your files, history, and changes live.  
