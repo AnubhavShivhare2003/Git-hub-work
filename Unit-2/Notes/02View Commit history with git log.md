@@ -1,4 +1,4 @@
-# 📜 Viewing Commit History with `git log` – CodingGita Hostel Guide
+# 📜 Viewing Commit History with `git log` – CodingGita Guide
 
 ## 📌 Why View Commit History?
 
