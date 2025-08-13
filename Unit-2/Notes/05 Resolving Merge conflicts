@@ -1,0 +1,180 @@
+# ⚠️ Resolving Merge Conflicts in Git – CodingGita Guide
+
+## 📌 What is a Merge Conflict?
+
+A merge conflict happens when Git cannot automatically combine changes from two branches because the changes affect the same part of the same file differently.
+
+Think of it like two people editing the same paragraph in a shared Google Doc — when you try to merge their work, you need to decide which changes to keep.
+
+---
+
+## 🛠 When Do Merge Conflicts Happen?
+
+Merge conflicts usually occur when:
+
+- **Merging branches** (`git merge feature-branch`)
+- **Pulling changes** from a remote repository (`git pull`)
+- **Rebasing branches** (`git rebase main`)
+- **Cherry-picking commits** (`git cherry-pick <commit-id>`)
+
+---
+
+## 🔍 Example Scenario (Real-life analogy)
+
+Imagine you and your friend are writing a book.
+
+**You work on a file called `story.txt` in the main branch:**
+
+```
+Once upon a time, there was a brave knight.
+```
+
+**Your friend works on a branch called `feature` and changes it to:**
+
+```
+Once upon a time, there was a clever wizard.
+```
+
+Now, when you try to merge `feature` into `main`, Git doesn't know whether the knight or the wizard should be kept — this is a merge conflict.
+
+---
+
+## 📄 How Git Shows a Merge Conflict
+
+When a conflict happens, Git modifies the file like this:
+
+```
+<<<<<<< HEAD
+Once upon a time, there was a brave knight.
+=======
+Once upon a time, there was a clever wizard.
+>>>>>>> feature
+```
+
+- **`<<<<<<< HEAD`** → Your current branch's version (main)
+- **`=======`** → Separation between the two versions
+- **`>>>>>>> feature`** → The incoming branch's version (feature)
+
+---
+
+## 🚀 Steps to Resolve a Merge Conflict
+
+### 1. Check which files have conflicts
+
+```bash
+git status
+```
+
+**Output example:**
+```bash
+both modified: story.txt
+```
+
+### 2. Open the conflicted file and decide
+
+Manually edit `story.txt` to keep:
+- Only one version, or
+- A combination of both
+
+**Example (merged version):**
+```
+Once upon a time, there was a brave knight and a clever wizard.
+```
+
+### 3. Mark the conflict as resolved
+
+```bash
+git add story.txt
+```
+
+### 4. Complete the merge
+
+```bash
+git commit
+```
+
+---
+
+## 💡 Pro Tip: Abort Merge
+
+If you want to stop the merge process and return to the state before merging:
+
+```bash
+git merge --abort
+```
+
+---
+
+## 🎯 Real-Life Analogy
+
+Think of Git as a **mediator in a group project**:
+
+1. **You submit your version.**
+2. **Your friend submits theirs.**
+3. **Git says:** "You both wrote different things in the same spot — please decide which one stays."
+
+---
+
+## 🏠 Hostel Life Example
+
+**CodingGita Hostel Menu Conflict:**
+- **Main branch:** "Monday: Paneer Butter Masala"
+- **Feature branch:** "Monday: Paneer Tikka Masala"
+- **Conflict:** Both branches changed the same Monday menu item
+- **Resolution:** "Monday: Paneer Butter Tikka Masala" (combining both ideas)
+
+---
+
+## 📚 Summary Table
+
+| Command | Purpose |
+|---------|---------|
+| `git status` | Shows conflicted files |
+| `git merge --abort` | Stops merge and reverts to pre-merge state |
+| `git add <file>` | Marks a file as conflict-resolved |
+| `git commit` | Finalizes the merge after resolving conflicts |
+
+---
+
+## 🔧 Advanced Conflict Resolution
+
+### Using a Merge Tool
+```bash
+git mergetool
+```
+Opens a visual tool to help resolve conflicts.
+
+### Viewing Conflict Markers
+```bash
+git diff
+```
+Shows the differences between the conflicted versions.
+
+---
+
+## 💡 Best Practices
+
+1. **Always pull before merging** to minimize conflicts
+2. **Use descriptive commit messages** to understand changes
+3. **Test your code** after resolving conflicts
+4. **Communicate with team members** about conflicting changes
+
+---
+
+## 📝 Summary
+
+- **Merge conflicts** happen when Git can't automatically combine changes
+- **Conflict markers** show you exactly where the conflicts are
+- **Manual resolution** requires you to decide what to keep
+- **Always test** after resolving conflicts
+- **Use `git merge --abort`** if you need to start over
+
+---
+
+## 🚀 Next Topic
+
+We will explore **Advanced Git Workflows** and **Team Collaboration Strategies** in detail with real-world hostel scenarios.
+
+---
+
+*This guide is part of the CodingGita Hostel Project - helping developers master Git fundamentals through real-world examples.*
