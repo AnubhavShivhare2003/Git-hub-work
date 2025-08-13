@@ -1,4 +1,4 @@
-# 🌿 Creating and Working with Branches in Git – CodingGita Hostel Guide
+# 🌿 Creating and Working with Branches in Git – CodingGita Guide
 
 ## 📌 Introduction
 
