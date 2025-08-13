@@ -181,13 +181,7 @@ Each branch lets you experiment without messing up the main menu that everyone d
 
 ---
 
-## 📺 Recommended YouTube Videos
 
-- **[Git Branching Tutorial](https://www.youtube.com/watch?v=3a2x1iJFJWc)** – FreeCodeCamp
-- **[Working with Git Branches](https://www.youtube.com/watch?v=Q1kHG842HoM)** – Programming with Mosh
-- **[Git Branch Management](https://www.youtube.com/watch?v=JTE2Fn_sCZs)** – The Net Ninja
-
----
 
 ## 📝 Summary
 
