@@ -95,7 +95,7 @@ Now you merge that branch into the main hostel menu.
 
 ## 📺 Recommended YouTube Videos
 
-- **[Branching in Git](https://www.youtube.com/watch?v=3a2x1iJFJWc)** – FreeCodeCamp
+- **[Branching in Git](https://www.youtube.com/watch?v=e2IbNHi4uCI&ab_channel=freeCodeCamp.org)** – FreeCodeCamp
 - **[Git Branching & Merging](https://www.youtube.com/watch?v=Q1kHG842HoM)** – Programming with Mosh
 - **[Learn Git Branching](https://www.youtube.com/watch?v=JTE2Fn_sCZs)** – The Net Ninja
 
