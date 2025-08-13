@@ -1,4 +1,4 @@
-# ⚠️ Resolving Merge Conflicts in Git – CodingGita Hostel Guide
+# ⚠️ Resolving Merge Conflicts in Git – CodingGita Guide
 
 ## 📌 What is a Merge Conflict?
 
@@ -194,4 +194,4 @@ graph TD
 
 ---
 
-*This guide is part of the CodingGita Hostel Project - helping developers master Git fundamentals through relatable examples.*
+*This guide is part of the CodingGita Project - helping developers master Git fundamentals through relatable examples.*
