@@ -1,4 +1,4 @@
-# 🗑️ Deleting and Renaming Branches in Git – CodingGita Hostel Guide
+# 🗑️ Deleting and Renaming Branches in Git – CodingGita Guide
 
 ## 📌 Introduction
 
@@ -162,4 +162,4 @@ We will explore **Advanced Git Workflows** and **Team Collaboration Strategies**
 
 ---
 
-*This guide is part of the CodingGita Hostel Project - helping developers master Git fundamentals through real-world examples.*
+*This guide is part of the CodingGita Project - helping developers master Git fundamentals through real-world examples.*
