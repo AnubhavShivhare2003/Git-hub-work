@@ -1,6 +1,6 @@
 # ⚠️ Resolving Merge Conflicts in Git – CodingGita Hostel Guide
 
-## 📌 What is a Merge Conflict?
+##📌 What is a Merge Conflict?
 
 A merge conflict happens when Git cannot automatically combine changes from two branches because the changes affect the same part of the same file differently.
 
