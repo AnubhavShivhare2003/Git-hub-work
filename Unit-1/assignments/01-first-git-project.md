@@ -154,26 +154,7 @@ Date:   [Current Date and Time]
 - Git remembers everything!
 - Like looking at your photo album
 
-## Submission Requirements
 
-**What to Submit:**
-1. Screenshots or text output showing:
-   - Your project folder creation
-   - Git initialization
-   - File creation
-   - Git status checks
-   - Successful commit
-   - Git log output
-
-2. A brief reflection (2-3 sentences) on:
-   - What you learned about Git workflow
-   - How this relates to your codingGita studies
-
-**Submission Format:**
-- Create a document (Word, PDF, or text file)
-- Include all screenshots/outputs
-- Add your reflection at the end
-- Name it: `YourName_Assignment1_FirstGitProject`
 
 ## Success Criteria
 
