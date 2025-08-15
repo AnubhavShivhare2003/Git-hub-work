@@ -128,26 +128,6 @@ abc1234 Created my codingGita learning journal
 - Like having two photos in your album
 - The newest commit is at the top
 
-## Submission Requirements
-
-**What to Submit:**
-1. Screenshots or text output showing:
-   - Your modified README.md file content
-   - Git status showing modified file
-   - Git diff output
-   - Successful commit
-   - Git log showing both commits
-
-2. A brief reflection (2-3 sentences) on:
-   - How Git tracks changes in your files
-   - Why the diff command is useful for understanding changes
-
-**Submission Format:**
-- Create a document (Word, PDF, or text file)
-- Include all screenshots/outputs
-- Add your reflection at the end
-- Name it: `YourName_Assignment2_ChangesAndProgress`
-
 ## Success Criteria
 
 **✅ Complete All Tasks:**
