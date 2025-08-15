@@ -166,27 +166,6 @@ codingGita-journal/
 - Related files are grouped together
 - Easy to navigate and understand
 - Follows industry best practices
-
-## Submission Requirements
-
-**What to Submit:**
-1. Screenshots or text output showing:
-   - Folder creation commands
-   - File movement commands
-   - Git status showing renamed files
-   - Successful commit
-   - Final project structure (tree view)
-
-2. A brief reflection (2-3 sentences) on:
-   - How the new structure makes your project more professional
-   - Why organizing files into folders is important for larger projects
-
-**Submission Format:**
-- Create a document (Word, PDF, or text file)
-- Include all screenshots/outputs
-- Add your reflection at the end
-- Name it: `YourName_Assignment6_ProjectStructure`
-
 ## Success Criteria
 
 **✅ Complete All Tasks:**

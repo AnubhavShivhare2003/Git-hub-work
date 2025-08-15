@@ -145,27 +145,6 @@ git commit -m "Updated project documentation and added new features"
 - Git created a new commit with ID `jkl3456`
 - 3 files were changed with 12 new lines added
 
-## Submission Requirements
-
-**What to Submit:**
-1. Screenshots or text output showing:
-   - Your modified file contents
-   - Git status showing modified files
-   - Git status after staging some files
-   - Git status after staging all files
-   - Successful commit
-   - Final git status
-
-2. A brief reflection (2-3 sentences) on:
-   - How selective staging gives you control over what gets committed
-   - Why understanding file states is important for Git workflow
-
-**Submission Format:**
-- Create a document (Word, PDF, or text file)
-- Include all screenshots/outputs
-- Add your reflection at the end
-- Name it: `YourName_Assignment4_FileStates`
-
 ## Success Criteria
 
 **✅ Complete All Tasks:**

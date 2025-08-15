@@ -164,27 +164,6 @@ git log --date=short --oneline
 - Different views of your commit history
 - Various levels of detail
 - Understanding of which format works best for different needs
-
-## Submission Requirements
-
-**What to Submit:**
-1. Screenshots or text output showing:
-   - Complete git log output
-   - Compact git log output
-   - Git show HEAD output
-   - Git diff between two commits
-   - At least one additional log format
-
-2. A brief reflection (2-3 sentences) on:
-   - How viewing history helps you understand your project's development
-   - Which Git history command you find most useful and why
-
-**Submission Format:**
-- Create a document (Word, PDF, or text file)
-- Include all screenshots/outputs
-- Add your reflection at the end
-- Name it: `YourName_Assignment5_HistoryAndChanges`
-
 ## Success Criteria
 
 **✅ Complete All Tasks:**
