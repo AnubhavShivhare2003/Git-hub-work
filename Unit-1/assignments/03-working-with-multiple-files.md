@@ -153,28 +153,6 @@ style.css
 - Your main project files
 - The hidden `.git` folder (Git's internal storage)
 - A clean, organized project structure
-
-## Submission Requirements
-
-**What to Submit:**
-1. Screenshots or text output showing:
-   - Your CSS file content
-   - Your JavaScript file content
-   - Git status showing untracked files
-   - Git status after staging files
-   - Successful commit
-   - Final project structure
-
-2. A brief reflection (2-3 sentences) on:
-   - How working with multiple files helps organize your project
-   - Why it's useful to add all files at once sometimes
-
-**Submission Format:**
-- Create a document (Word, PDF, or text file)
-- Include all screenshots/outputs
-- Add your reflection at the end
-- Name it: `YourName_Assignment3_MultipleFiles`
-
 ## Success Criteria
 
 **✅ Complete All Tasks:**
