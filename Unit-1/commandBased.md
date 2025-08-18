@@ -7,9 +7,6 @@ Instructions: For each scenario, write the exact Git (and shell, if needed) comm
 1) Initialize and First Commit
 - Create a new project folder called `codingGita-journal`, move into it, initialize Git, create a file `README.md` with the title `# My codingGita Learning Journey`, stage it, and make your first commit with the message: `Created initial README`.
 
-2) Configure Git (Global)
-- Set your global Git username to `Your Name` and email to `your.email@college.edu`.
-- Also set the default initial branch name to `main` and enable colored UI output.
 
 3) Selective Staging and Commit
 - You edited three files: `README.md`, `style.css`, and `script.js`. Stage only `README.md` and `style.css` (leave `script.js` unstaged), verify with status, and commit with the message: `Update docs and styles`.
