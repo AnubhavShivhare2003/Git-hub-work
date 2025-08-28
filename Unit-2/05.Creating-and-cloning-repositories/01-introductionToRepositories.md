@@ -49,3 +49,4 @@ It not only stores the files but also keeps track of all the changes made to the
 ---
 
 ✅ **So, a repository = project folder + history of all changes.**
+
