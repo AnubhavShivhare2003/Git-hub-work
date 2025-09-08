@@ -1,4 +1,4 @@
-# ⚠️ Naming/Labeling Stashes (git stash save "msg") – CodingGita Hostel Guide
+# ⚠️ Naming/Labeling Stashes (git stash save "msg") – 
 
 ## 📌 What is Naming/Labeling Stashes?
 
@@ -116,10 +116,3 @@ Step-by-step:
 
 ---
 
-## 🚀 Next Subtopic
-
-Learn how to stash untracked files in [Stashing-Untracked-Files.md](Stashing-Untracked-Files.md).
-
----
-
-*This guide is part of the CodingGita Hostel Project - helping developers master Git fundamentals through relatable examples.*

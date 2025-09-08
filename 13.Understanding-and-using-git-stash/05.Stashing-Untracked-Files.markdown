@@ -1,4 +1,4 @@
-# ⚠️ Stashing Untracked Files (git stash -u) – CodingGita Hostel Guide
+# ⚠️ Stashing Untracked Files (git stash -u) – 
 
 ## 📌 What is Stashing Untracked Files?
 
@@ -115,11 +115,3 @@ Step-by-step:
 **Submission**: Share commands and note in a text file or GitHub repo.
 
 ---
-
-## 🚀 Next Subtopic
-
-Explore practical scenarios for using stash in [Practical-Scenarios-for-Stashing.md](Practical-Scenarios-for-Stashing.md).
-
----
-
-*This guide is part of the CodingGita Hostel Project - helping developers master Git fundamentals through relatable examples.*

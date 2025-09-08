@@ -1,4 +1,4 @@
-# ⚠️ Stash Workflow (Save, List, Apply, Drop, Clear) – CodingGita Hostel Guide
+# ⚠️ Stash Workflow (Save, List, Apply, Drop, Clear) – 
 
 ## 📌 What is the Stash Workflow?
 
@@ -178,11 +178,3 @@ Step-by-step:
 **Submission**: Share commands and note in a text file or GitHub repo.
 
 ---
-
-## 🚀 Next Subtopic
-
-Learn the difference between `git stash apply` and `git stash pop` in [Apply-vs-Pop.md](Apply-vs-Pop.md).
-
----
-
-*This guide is part of the CodingGita Hostel Project - helping developers master Git fundamentals through relatable examples.*

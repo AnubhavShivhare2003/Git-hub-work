@@ -1,4 +1,4 @@
-# ⚠️ What is Stashing and Why It is Used – CodingGita Hostel Guide
+# ⚠️ What is Stashing and Why It is Used – 
 
 ## 📌 What is Git Stashing?
 

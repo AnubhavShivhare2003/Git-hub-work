@@ -1,4 +1,4 @@
-# ⚠️ Difference Between git stash apply vs git stash pop – CodingGita Hostel Guide
+# ⚠️ Difference Between git stash apply vs git stash pop – 
 
 ## 📌 What’s the Difference?
 
@@ -127,11 +127,3 @@ Step-by-step:
 **Submission**: Share commands and note in a text file or GitHub repo.
 
 ---
-
-## 🚀 Next Subtopic
-
-Learn how to name and label stashes in [Naming-and-Labeling-Stashes.md](Naming-and-Labeling-Stashes.md).
-
----
-
-*This guide is part of the CodingGita Hostel Project - helping developers master Git fundamentals through relatable examples.*
