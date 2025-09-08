@@ -112,6 +112,5 @@ Step-by-step:
 7. Apply the stash and check restored files.
 8. Write a note on why `-u` was needed for `temp.txt`.
 
-**Submission**: Share commands and note in a text file or GitHub repo.
 
 ---

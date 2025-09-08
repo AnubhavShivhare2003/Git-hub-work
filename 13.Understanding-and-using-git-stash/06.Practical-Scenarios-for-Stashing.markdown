@@ -122,6 +122,5 @@ Step-by-step:
 6. Apply “Team info” stash, then pop “Bug styling” stash.
 7. Write a note explaining how stashing helped in both scenarios.
 
-**Submission**: Share commands and note in a text file or GitHub repo.
 
 ---

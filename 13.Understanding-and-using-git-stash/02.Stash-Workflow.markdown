@@ -175,6 +175,5 @@ Step-by-step:
 7. Drop the second stash and clear all.
 8. Write a note explaining the workflow and why you dropped/cleared stashes.
 
-**Submission**: Share commands and note in a text file or GitHub repo.
 
 ---

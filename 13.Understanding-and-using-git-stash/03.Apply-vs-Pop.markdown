@@ -124,6 +124,4 @@ Step-by-step:
 7. List stashes and confirm `stash@{1}` remains but `stash@{0}` is gone.
 8. Write a note explaining why you used `apply` for one and `pop` for the other.
 
-**Submission**: Share commands and note in a text file or GitHub repo.
-
 ---
