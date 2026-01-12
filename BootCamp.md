@@ -15,14 +15,14 @@ To demonstrate the power of **AI-First Development**. Participants will learn to
 | Time | Session | Key Focus |
 | :--- | :--- | :--- |
 | **10:00 - 10:30** | **Session 0: AI Ideation** | Brainstorming project ideas & features with AI |
-| **10:30 - 12:15** | **Phase 1: Wipe Coding - Frontend** | Building the SoloLearn UI live with AI (Trae/Cursor) |
+| **10:30 - 12:15** | **Phase 1: Wibe Coding - Frontend** | Building the SoloLearn UI live with AI (Trae/Cursor) |
 | **12:15 - 13:15** | **Break** | - |
-| **13:15 - 16:00** | **Phase 2: Wipe Coding - Full Stack** | Node.js, MongoDB & API development live with AI |
+| **13:15 - 16:00** | **Phase 2: Wibe Coding - Full Stack** | Node.js, MongoDB & API development live with AI |
 
 ---
 
-### 🧠 The Focus: Wipe Coding with AI
-The core of this bootcamp is **Wipe Coding** (Live AI-Driven Coding). Instead of traditional manual typing, we focus on:
+### 🧠 The Focus: Wibe Coding with AI
+The core of this bootcamp is **Wibe Coding** (Live AI-Driven Coding). Instead of traditional manual typing, we focus on:
 - **Directing AI in Real-Time:** Using Trae/Cursor to write entire modules through expert prompting.
 - **Thinking with AI:** Explaining the *why* behind AI-generated code as it appears on screen.
 - **Rapid Iteration:** Instantly refactoring and debugging logic through live interaction with DeepSeek.
@@ -37,14 +37,14 @@ A bite-sized learning platform featuring interactive lessons, progress tracking,
 - Generating a technical roadmap and component hierarchy.
 - **Outcome:** A clear blueprint for the day.
 
-#### **🚀 Phase 1: Wipe Coding - Frontend (10:30 - 12:15)**
+#### **🚀 Phase 1: Wibe Coding - Frontend (10:30 - 12:15)**
 *Goal: Build a high-fidelity interactive UI live using AI prompting.*
 - **UI Scaffolding:** Using Trae/Cursor to generate a responsive dashboard and course cards.
 - **Interactive Quiz Engine:** Prompting the AI to build the logic for multiple-choice questions, state management, and score calculation.
 - **Local Data Handling:** Storing user progress in `localStorage` and fetching content from a local JSON file.
 - **Outcome:** A fully functional, interactive frontend prototype.
 
-#### **🔐 Phase 2: Wipe Coding - Full Stack (13:15 - 16:00)**
+#### **🔐 Phase 2: Wibe Coding - Full Stack (13:15 - 16:00)**
 *Goal: Move from local state to a persistent, secure backend live with AI.*
 - **Backend Setup:** Prompting AI to scaffold a Node.js/Express server.
 - **Database Integration:** Connecting to MongoDB for persistent storage of users and quiz results.
